@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaTreeBench:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaTreeBench_jar</output-path>
+    <root id="archive" name="JavaTreeBench.jar">
+      <element id="module-output" name="JavaTreeBench" />
+    </root>
+  </artifact>
+</component>

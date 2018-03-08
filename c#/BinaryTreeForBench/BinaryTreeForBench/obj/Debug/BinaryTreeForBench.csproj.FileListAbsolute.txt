@@ -1,0 +1,7 @@
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\bin\Debug\BinaryTreeForBench.exe.config
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\bin\Debug\BinaryTreeForBench.exe
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\bin\Debug\BinaryTreeForBench.pdb
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\obj\Debug\BinaryTreeForBench.csprojResolveAssemblyReference.cache
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\obj\Debug\BinaryTreeForBench.csproj.CoreCompileInputs.cache
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\obj\Debug\BinaryTreeForBench.exe
+C:\Users\aries\source\repos\BinaryTreeForBench\BinaryTreeForBench\obj\Debug\BinaryTreeForBench.pdb
